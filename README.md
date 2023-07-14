@@ -12,4 +12,5 @@ The modified version is the one that I built throughout my journey as Junior Dat
 
 ## Notes About BCC
 ![BCC](https://bccfilkom.net/static/assets/images/BCC-Logo.svg)
+
 Basic Computing Community (BCC) is a community of students from the faculty of computer science at Brawijaya University who are interested in developing, exploring, and collaborating so that they can excel and produce useful and impactful digital products by doing workshops, participating in competitions, create and contribute to open sources, and introducing a real work environment.
